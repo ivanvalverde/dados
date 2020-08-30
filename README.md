@@ -28,13 +28,13 @@ Link: https://www.npmjs.com/package/csv-writer
 
 # Comandos utilizados para a criação do ambiente
 
-**npm init:** início do monitoramento do gerenciador de pacotes no diretório ao qual você deseja criar o projeto;
-**npm install node-fetch --save:** instalando o node-fetch no diretório em questão;
+**npm init:** início do monitoramento do gerenciador de pacotes no diretório ao qual você deseja criar o projeto;&nbsp;
+**npm install node-fetch --save:** instalando o node-fetch no diretório em questão;&nbsp;
 **npm i csv-writer --save:** instalando o csv-writer no diretório em questão;
 
 ## Modo de uso
 
-Caso queira utilizar a aplicação, altere a variável *number_users_generated* (defatul = 5000) no arquivo index.js com o valor de usuários à serem puxados.
+Caso queira utilizar a aplicação, altere a variável *number_users_generated* (default = 5000) no arquivo index.js com o valor de usuários à serem puxados.
 Querendo mudar as informações buscadas, alterar os atributos do objeto *apiObj* (checar informações da API em questão).
 O código está levemente comentado para a melhor interpretação do mesmo.
 Após realizar todas as etapas anteriores, escreva no terminal *node index.js* (rodando o programa).
