@@ -28,8 +28,8 @@ Link: https://www.npmjs.com/package/csv-writer
 
 # Comandos utilizados para a criação do ambiente
 
-**npm init:** início do monitoramento do gerenciador de pacotes no diretório ao qual você deseja criar o projeto;&nbsp;
-**npm install node-fetch --save:** instalando o node-fetch no diretório em questão;&nbsp;
+**npm init:** início do monitoramento do gerenciador de pacotes no diretório ao qual você deseja criar o projeto;<br>
+**npm install node-fetch --save:** instalando o node-fetch no diretório em questão;<br>
 **npm i csv-writer --save:** instalando o csv-writer no diretório em questão;
 
 ## Modo de uso
