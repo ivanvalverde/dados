@@ -1,0 +1,24 @@
+{
+  "name": "dados",
+  "version": "1.0.0",
+  "description": "Busca informações de uma API para preencher uma tabela csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanvalverde/dados.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanvalverde/dados/issues"
+  },
+  "homepage": "https://github.com/ivanvalverde/dados#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
